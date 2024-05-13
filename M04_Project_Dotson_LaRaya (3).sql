@@ -1,4 +1,4 @@
--- LaRaya Dotson-- M04 Project-- April 12, 2024
+-- LaRae Dotson-- M04 Project-- April 12, 2024
 CREATE TABLE CUSTOMERS13 (
     CUSTOMER_ID NUMBER(10) NOT NULL,
     LAST_NAME VARCHAR2(25) NOT NULL,
